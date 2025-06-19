@@ -21,6 +21,12 @@
 
 Таблица с генами (также в репозитории domains_genes_positions.csv):
 
-Распределение структур по геному:
+![img2](data/genome_table.png)
 
-![img2](data/first_table.png)
+Первая таблица элементов:
+
+![img3](data/first_table.png)
+
+Вторая таблица элементов:
+
+![img4](data/second_table.png)
